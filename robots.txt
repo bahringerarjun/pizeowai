@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ooyoomo.cpfabrication.com/sitemap.xml
